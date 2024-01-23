@@ -1,0 +1,173 @@
+/* .header {
+	color: blueviolet;
+}
+
+div {
+	color: blue;
+}
+
+.title {
+	color: red;
+}
+
+
+.footer {
+
+} */
+
+.header {
+	color: blueviolet;
+}
+.page {
+}
+.title {
+	color: red;
+}
+h2 {
+color: #265c38;
+}
+.general-info {
+}
+.text {
+	color: brown;
+}
+.text .yellow-text{
+	color: #cfcf00;
+}
+.image {
+}
+.content {
+}
+.content-title {
+	color: #006923;
+}
+.list {
+	color: aqua;
+}
+.link {
+	/* color: orange; */
+}
+.etymology {
+}
+.etymology p {
+	color: orangered;
+}
+.etymology-title {
+	color: aquamarine;
+}
+.history {
+}
+.history-title {
+	color: darkred;
+}
+.history-first {
+}
+.history-first-title {
+	color: #c834b4;
+}
+.history-first p {
+	color: gold;
+}
+
+.history-first-text.history-blue {
+	color: #2618a7;
+}
+.history-first-text {
+}
+.history-first-img {
+}
+.history-second {
+}
+.history-second-title {
+	color: #265c38;
+}
+.history-second-text {
+	color: bisque;
+}
+.history-third {
+}
+.history-third-title {
+	color: #120966;
+}
+.history-third-text {
+	color: #00a637;
+}
+
+.history-third-title+p {
+	color: #880477;
+}
+.history-third-img {
+}
+.history-fourth {
+}
+.history-fourth-title {
+	color: crimson;
+}
+.history-fourth-endxx {
+}
+.endxx {
+}
+.history-fourth-endxx.endxx{
+	color: #cfcf00;
+}
+.endxx-title {
+	color: #ff0033;
+}
+.endxx-text {
+}
+.history-fourth-war {
+}
+.war {
+}
+.war-title {
+	color: #ff0033;
+}
+.war-text {
+}
+.war-images {
+}
+.war-image {
+}
+.geography {
+}
+.geography-title {
+}
+.geography-text {
+}
+.locations {
+}
+.locations-title {
+}
+.locations-text {
+}
+.locations-img {
+}
+.local-government {
+}
+.local-government-title {
+}
+.local-government-municipality {
+}
+.municipality {
+}
+.municipality-title {
+}
+.municipality-text {
+}
+.local-government-leaders {
+}
+.leaders {
+}
+.leaders-title {
+}
+.leaders-list+li {
+	color: #ff0033;
+}
+.municipality-title,
+.leaders-title {
+	color: #006923;
+}
+
+.footer {
+	color: blueviolet;
+}
